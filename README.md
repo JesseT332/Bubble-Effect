@@ -8,6 +8,7 @@ Download the zip file, Then wait for download to be complete.
 Look for Bubble-Effect floder.
 
 *Double Click*
+
 Extract ALL from Bubble-Effect floder.
 
 Select the exe.file with the Bubble-Effect title image on it.
