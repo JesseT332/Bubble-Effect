@@ -6,6 +6,7 @@ Hello, This project was created for the TSA 2020-2021 Video Game competition.
 Download the zip file, Then wait for download to be complete.
 
 Look for Bubble-Effect floder.
+
 *Double Click*
 Extract ALL from Bubble-Effect floder.
 
